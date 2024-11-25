@@ -204,12 +204,14 @@ ul li a {
 }
 
 .about-section .about-container .about-img img {
-    height: 600px;
-    width: 1100px;
+    height: 650px;
+    width: 400px;
     filter: drop-shadow(black 0 0 10px);
     position: relative;
-    bottom: 250px;
-    right: 250px;
+    bottom: 350px;
+    filter: grayscale(100%);
+    /* right: 250px; */
+    left: 90px;
 
 
 
@@ -867,11 +869,11 @@ svg{
 }
 
 .personal-pic img{
-    height: 170px;
-    width: 350px;
+    height: 250px;
+    width: 200px;
     position: relative;
-    top: -10px;
-   left: -90px;
+    top: -70px;
+    left: 4px;
    border-radius: 50%;
    filter: grayscale(100%);
 }
