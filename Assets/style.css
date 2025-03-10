@@ -195,7 +195,7 @@ ul li a {
 .about-infromation p {
     /* width: 582px; */
     font-weight: 400;
-    font-size: 24px;
+    font-size: 17px;
     line-height: 36px;
     color: #555555;
 }
@@ -525,7 +525,7 @@ svg{
     gap: 24px;
     position: absolute;
     width: 100%;
-    height: 680px;
+    height: auto;
     top: 2900px;
     
 }
@@ -553,7 +553,7 @@ svg{
     gap: 21px;
     padding-left: 60px;
     width: 100%;
-    height: 432px;
+    height: auto;
     overflow-x: auto;
     scroll-behavior: smooth;
     scrollbar-width: none;
@@ -575,7 +575,7 @@ svg{
     padding: 16px;
     gap: 24px;
     width: 350px;
-    height: 432px;
+    height:547px;
     background: #F1F1F1;
     box-shadow: 0px 8px 40px rgba(0, 0, 0, 0.1);
     border-radius: 16px;
@@ -604,9 +604,8 @@ svg{
     align-items: flex-start;
     padding: 0px;
     gap: 4px;
-
     width: 271px;
-    height: 112px;
+    height: auto;
 }
 
 .projects-lists-item-details h3 {
@@ -620,7 +619,7 @@ svg{
 }
 
 .projects-lists-item-details p {
-    width: 271px;
+    width: 360px;
     height: 72px;
     font-weight: 400;
     font-size: 16px;
@@ -635,9 +634,9 @@ svg{
     align-items: center;
     padding: 10px 24px;
     gap: 10px;
-
     width: 354px;
     height: 44px;
+    margin-top: 91px;
     color: white;
     background: #0948B4;
     border-radius: 8px;
@@ -679,7 +678,7 @@ svg{
 .experience {
     height: 300px;
     width: 100%;
-    margin-top: 800px;
+    margin-top: 1000px;
 
 }
 
@@ -754,6 +753,7 @@ svg{
     margin-top: 100px;
     width: 100%;
     height: 640px;
+    margin-left: 100px;
 }
 
 .qualification h2 {
